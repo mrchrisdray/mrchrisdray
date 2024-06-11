@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Current Certifications
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src=https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png width="100" height="100"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="100" height="100"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src= "https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images.credly.com/size/220x220/images/cfaa6dbf-1fd1-467e-b9a9-da2d1f556160/Oracle-Certification-badge_OC-Professional600X600.png" width="100" height="100"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src=https://images.credly.com/size/220x220/images/8864382b-b698-4468-a4fe-a9c8d6e2b402/06_Oracle_PL_SQL_Developer_Associate__1_.png width="100" height="100">
-
-
-
+[<img src="https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png">](https://www.credly.com/badges/931b4cac-74a0-4424-8120-692ce8eab9bd/public_url)
+[<img src="https://images.credly.com/size/100x100/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png">](https://www.credly.com/badges/8b88e5d0-0c7e-4814-950a-203d81cc736c/public_url)
+[<img src="https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">](https://www.credly.com/badges/2b6ffb9f-578c-415c-8527-23964870aa0a/public_url)
+[<img src="https://images.credly.com/size/100x100/images/cfaa6dbf-1fd1-467e-b9a9-da2d1f556160/Oracle-Certification-badge_OC-Professional600X600.png">](https://www.credly.com/badges/77a93915-77c3-4cf7-8c2d-f58012139c79/public_url)
+[<img src="https://images.credly.com/size/100x100/images/8864382b-b698-4468-a4fe-a9c8d6e2b402/06_Oracle_PL_SQL_Developer_Associate__1_.png">](https://www.credly.com/badges/aa1f2710-0b92-4b84-8e26-ebd72b60a7e3/public_url)
